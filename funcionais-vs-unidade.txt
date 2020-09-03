@@ -1,0 +1,5 @@
+Para criar testes de unidade é preciso ter conhecimendo do código,
+enquanto para criar testes funcionais não é necessário.
+
+Testes de unidade são fáceis de implementar e rápidos de executar enquanto
+testes funcionais são mais caros e mais lentos.
