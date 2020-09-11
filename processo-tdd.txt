@@ -1,0 +1,4 @@
+O processo apresentado consiste em inicialmente escrever um teste funcional e depois um teste de unidade.
+É preciso escrever o código mínimo do teste de unidade até que ele passe e, se ele não precisar de refatorações,
+podemos passar a escrever o código mínimo para que o teste funcional passe. Quando ambos os testes estiverem passando
+e não for mais necessário fazer refatorações no código, podemos escrever um novo teste funcional e o ciclo recomessa.
